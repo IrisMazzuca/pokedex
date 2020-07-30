@@ -1,3 +1,8 @@
+## Pokédex
+React project at ADA IT Bootcamp
+[Click to go to the website](https://irismazzuca.github.io/pokedex/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
